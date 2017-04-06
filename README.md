@@ -10,4 +10,4 @@ Many features behind the project we list :
 - ... etc
 
 
-The project is open for any contribution after communauty validation 
+The project is open for any contribution after community validation 
